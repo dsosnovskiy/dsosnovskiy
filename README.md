@@ -2,12 +2,8 @@
 
 # 👨‍💻 Danila Sosnovskiy  
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00FF00&background=000000&center=true&vCenter=true&width=435&lines=DevOps+Engineer)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=10&duration=2000&pause=1000&color=FFFFFF&background=000000&multiline=true&width=435&lines=%24+whoami;Automation+Enthusiast+%7C+Cloud+Native+Explorer+%7C+CI%2FCD+Practitioner)](https://git.io/typing-svg)
 
-<p align="center">
-  <span style="color: #00FF00; font-family: 'Courier New', monospace; letter-spacing: 1px; border: 1px solid #00FF00; padding: 8px 16px; background: rgba(0, 255, 0, 0.05);">
-    >_ AUTOMATION ENTHUSIAST | CLOUD NATIVE EXPLORER | CI/CD PRACTITIONER
-  </span>
-</p>
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/skandal_tg)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dsosnovskiy2006@gmail.com)

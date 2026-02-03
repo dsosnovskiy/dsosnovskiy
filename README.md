@@ -53,8 +53,13 @@
 ![GitLab CI/CD](https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 
+### **🔄 GitOps**
+![ArgoCD](https://img.shields.io/badge/argocd-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
+![FluxCD](https://img.shields.io/badge/fluxcd-5468FF?style=for-the-badge&logo=flux&logoColor=white)
+
 ### **☸️ Orchestration**
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Helm](https://img.shields.io/badge/helm-%230F1689.svg?style=for-the-badge&logo=helm&logoColor=white)
 
 ### **☁️ Cloud Platforms**
 ![Yandex Cloud](https://img.shields.io/badge/Yandex_Cloud-FFCC00?style=for-the-badge&logo=yandex&logoColor=black)
@@ -66,5 +71,8 @@
 ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
 ![ELK Stack](https://img.shields.io/badge/ELK_Stack-005571?style=for-the-badge&logo=elasticstack&logoColor=white)
 ![Loki](https://img.shields.io/badge/Loki-2C3D50?style=for-the-badge&logo=grafana&logoColor=white)
+
+### **📨 Messaging & Streaming**
+![Kafka](https://img.shields.io/badge/apache%20kafka-000000?style=for-the-badge&logo=apachekafka&logoColor=white)
 
 </div>

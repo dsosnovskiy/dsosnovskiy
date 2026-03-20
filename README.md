@@ -52,6 +52,11 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 
+### **📊 Monitoring & Observability**
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
+![Loki](https://img.shields.io/badge/Loki-2C3D50?style=for-the-badge&logo=grafana&logoColor=white)
+
 ---
 
 ## 📚 **Currently Learning**
@@ -61,10 +66,7 @@
 ![FluxCD](https://img.shields.io/badge/fluxcd-5468FF?style=for-the-badge&logo=flux&logoColor=white)
 
 ### **📊 Monitoring & Observability**
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
 ![ELK Stack](https://img.shields.io/badge/ELK_Stack-005571?style=for-the-badge&logo=elasticstack&logoColor=white)
-![Loki](https://img.shields.io/badge/Loki-2C3D50?style=for-the-badge&logo=grafana&logoColor=white)
 
 ### **📨 Messaging & Streaming**
 ![Kafka](https://img.shields.io/badge/apache%20kafka-000000?style=for-the-badge&logo=apachekafka&logoColor=white)

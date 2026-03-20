@@ -63,10 +63,6 @@
 
 ### **🔄 GitOps**
 ![ArgoCD](https://img.shields.io/badge/argocd-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
-![FluxCD](https://img.shields.io/badge/fluxcd-5468FF?style=for-the-badge&logo=flux&logoColor=white)
-
-### **📊 Monitoring & Observability**
-![ELK Stack](https://img.shields.io/badge/ELK_Stack-005571?style=for-the-badge&logo=elasticstack&logoColor=white)
 
 ### **📨 Messaging & Streaming**
 ![Kafka](https://img.shields.io/badge/apache%20kafka-000000?style=for-the-badge&logo=apachekafka&logoColor=white)

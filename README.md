@@ -60,11 +60,7 @@
 ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
 ![Loki](https://img.shields.io/badge/Loki-2C3D50?style=for-the-badge&logo=grafana&logoColor=white)
 
----
-
-## 📚 **Currently Learning**
-
 ### **📨 Messaging & Streaming**
 ![Kafka](https://img.shields.io/badge/apache%20kafka-000000?style=for-the-badge&logo=apachekafka&logoColor=white)
 
-</div>
+---

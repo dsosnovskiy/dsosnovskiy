@@ -42,7 +42,7 @@
 ### **☁️ Cloud Platforms**
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white)
-![DigitalOcean](https://img.shields.io/badge/YandexCloud-%230167ff.svg?style=for-the-badge&logo=yandexCloud&logoColor=white)
+![YandelCloud](https://img.shields.io/badge/YandexCloud-%230167ff.svg?style=for-the-badge&logo=yandexCloud&logoColor=white)
 
 
 ### **🏗️ Infrastructure as Code**

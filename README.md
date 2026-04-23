@@ -47,6 +47,7 @@
 
 ### **🏗️ Infrastructure as Code**
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+![Terragrunt](https://img.shields.io/badge/terragrunt-%235835CC.svg?style=for-the-badge&logo=terragrunt&logoColor=white)
 ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
 
 ### **⚡ CI/CD Tools**
